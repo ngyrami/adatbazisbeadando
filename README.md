@@ -1,0 +1,2 @@
+# adatbazisbeadando
+dolgozzatok, vagy mi
